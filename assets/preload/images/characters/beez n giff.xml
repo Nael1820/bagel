@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beez n giff.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dance_Beat0000" x="5" y="5" width="1016" height="715" frameX="0" frameY="-15" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0001" x="5" y="5" width="1016" height="715" frameX="0" frameY="-15" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0002" x="1023" y="5" width="1016" height="731" frameX="0" frameY="-9" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0003" x="1023" y="5" width="1016" height="731" frameX="0" frameY="-9" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0004" x="2041" y="5" width="1016" height="742" frameX="0" frameY="-3" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0005" x="2041" y="5" width="1016" height="742" frameX="0" frameY="-3" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0006" x="3059" y="5" width="1016" height="752" frameX="0" frameY="0" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0007" x="3059" y="5" width="1016" height="752" frameX="0" frameY="0" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0008" x="5" y="759" width="1016" height="753" frameX="0" frameY="0" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0009" x="5" y="759" width="1016" height="753" frameX="0" frameY="0" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0010" x="1023" y="759" width="1016" height="751" frameX="0" frameY="-3" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0011" x="1023" y="759" width="1016" height="751" frameX="0" frameY="-3" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0012" x="2041" y="759" width="1016" height="740" frameX="0" frameY="-14" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0013" x="2041" y="759" width="1016" height="740" frameX="0" frameY="-14" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0014" x="2041" y="759" width="1016" height="740" frameX="0" frameY="-14" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0015" x="3059" y="759" width="1016" height="743" frameX="0" frameY="-13" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0016" x="3059" y="759" width="1016" height="743" frameX="0" frameY="-13" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0017" x="5" y="1514" width="1016" height="744" frameX="0" frameY="-8" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0018" x="5" y="1514" width="1016" height="744" frameX="0" frameY="-8" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0019" x="1023" y="1514" width="1016" height="739" frameX="0" frameY="-7" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0020" x="1023" y="1514" width="1016" height="739" frameX="0" frameY="-7" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0021" x="2041" y="1514" width="1016" height="742" frameX="0" frameY="-6" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0022" x="2041" y="1514" width="1016" height="742" frameX="0" frameY="-6" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0023" x="3059" y="1514" width="1016" height="746" frameX="0" frameY="-6" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0024" x="3059" y="1514" width="1016" height="746" frameX="0" frameY="-6" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0025" x="5" y="2262" width="1016" height="746" frameX="0" frameY="-7" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0026" x="5" y="2262" width="1016" height="746" frameX="0" frameY="-7" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0027" x="1023" y="2262" width="1016" height="747" frameX="0" frameY="-5" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0028" x="1023" y="2262" width="1016" height="747" frameX="0" frameY="-5" frameWidth="1016" frameHeight="756"/>
+	<SubTexture name="Dance_Beat0029" x="1023" y="2262" width="1016" height="747" frameX="0" frameY="-5" frameWidth="1016" frameHeight="756"/>
+</TextureAtlas>
