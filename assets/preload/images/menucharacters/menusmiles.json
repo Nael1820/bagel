@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "ok",
+	"idle_anim": "Menu smiles",
+	"position": [
+		230,
+		9
+	],
+	"scale": 1,
+	"image": "menu smiles",
+	"flipX": false
+}

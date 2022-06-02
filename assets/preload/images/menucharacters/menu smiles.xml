@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu smiles.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu smiles0000" x="5" y="5" width="615" height="352" frameX="0" frameY="-57" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0001" x="5" y="5" width="615" height="352" frameX="0" frameY="-57" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0002" x="622" y="5" width="600" height="376" frameX="-11" frameY="-33" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0003" x="622" y="5" width="600" height="376" frameX="-11" frameY="-33" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0004" x="1224" y="5" width="585" height="383" frameX="-23" frameY="-26" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0005" x="1224" y="5" width="585" height="383" frameX="-23" frameY="-26" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0006" x="5" y="390" width="567" height="396" frameX="-35" frameY="-13" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0007" x="5" y="390" width="567" height="396" frameX="-35" frameY="-13" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0008" x="574" y="390" width="558" height="401" frameX="-40" frameY="-8" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0009" x="574" y="390" width="558" height="401" frameX="-40" frameY="-8" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0010" x="1134" y="390" width="558" height="401" frameX="-40" frameY="-8" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0011" x="1134" y="390" width="558" height="401" frameX="-40" frameY="-8" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0012" x="5" y="793" width="560" height="409" frameX="-37" frameY="0" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0013" x="5" y="793" width="560" height="409" frameX="-37" frameY="0" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="Menu smiles0014" x="5" y="793" width="560" height="409" frameX="-37" frameY="0" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0000" x="567" y="793" width="615" height="352" frameX="0" frameY="-57" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0001" x="567" y="793" width="615" height="352" frameX="0" frameY="-57" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0002" x="1184" y="793" width="600" height="376" frameX="-11" frameY="-33" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0003" x="1184" y="793" width="600" height="376" frameX="-11" frameY="-33" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0004" x="5" y="1204" width="585" height="383" frameX="-23" frameY="-26" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0005" x="5" y="1204" width="585" height="383" frameX="-23" frameY="-26" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0006" x="592" y="1204" width="567" height="396" frameX="-35" frameY="-13" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0007" x="592" y="1204" width="567" height="396" frameX="-35" frameY="-13" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0008" x="1161" y="1204" width="558" height="401" frameX="-40" frameY="-8" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0009" x="1161" y="1204" width="558" height="401" frameX="-40" frameY="-8" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0010" x="5" y="1607" width="558" height="401" frameX="-40" frameY="-8" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0011" x="5" y="1607" width="558" height="401" frameX="-40" frameY="-8" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0012" x="565" y="1607" width="560" height="409" frameX="-37" frameY="0" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0013" x="565" y="1607" width="560" height="409" frameX="-37" frameY="0" frameWidth="615" frameHeight="409"/>
+	<SubTexture name="ok0014" x="565" y="1607" width="560" height="409" frameX="-37" frameY="0" frameWidth="615" frameHeight="409"/>
+</TextureAtlas>
