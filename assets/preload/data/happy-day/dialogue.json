@@ -1,0 +1,82 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hey glad you could make it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "smiles"
+		},
+		{
+			"expression": "embarrased",
+			"text": "yeah sorry if we're late, you live on the first floor with no elevators.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "beff"
+		},
+		{
+			"expression": "surprised",
+			"text": "46th floor actually.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "smiles"
+		},
+		{
+			"expression": "dishust",
+			"text": "same thing-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "giff"
+		},
+		{
+			"expression": "talk",
+			"text": "hope you don't mind i brought my girlfriend.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "beff"
+		},
+		{
+			"expression": "excited",
+			"text": "not at all!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "smiles"
+		},
+		{
+			"expression": "confused",
+			"text": "so the reason for this meetup is?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "beez"
+		},
+		{
+			"expression": "talk",
+			"text": "we're just gonna sing some songs",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "beff"
+		},
+		{
+			"expression": "embarrased",
+			"text": "(two songs really...)",
+			"boxState": "normal",
+			"portrait": "beff",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "super. sounds fun- ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "beez"
+		},
+		{
+			"expression": "excited",
+			"text": "anyways! lets start!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "beff"
+		}
+	]
+}
