@@ -1,0 +1,40 @@
+{
+	"storyName": "fun with a friend",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "smiles",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"happy day",
+			"smiles",
+			[
+				186,
+				93,
+				175
+			]
+		],
+		[
+			"optimism",
+			"smiles",
+			[
+				186,
+				93,
+				175
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"menusmiles",
+		""
+	],
+	"weekName": "Custom Week"
+}
