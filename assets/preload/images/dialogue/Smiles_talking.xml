@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Smiles_talking.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Smiles_excite0000" x="5" y="5" width="569" height="761"/>
+	<SubTexture name="Smiles_excite0001" x="5" y="5" width="569" height="761"/>
+	<SubTexture name="Smiles_surprised0000" x="576" y="5" width="517" height="888"/>
+	<SubTexture name="Smiles_surprised0001" x="576" y="5" width="517" height="888"/>
+	<SubTexture name="Smiles_talk0000" x="1095" y="5" width="559" height="842"/>
+	<SubTexture name="Smiles_talk0001" x="1095" y="5" width="559" height="842"/>
+	<SubTexture name="Smiles_up0000" x="5" y="895" width="669" height="826"/>
+	<SubTexture name="Smiles_up0001" x="5" y="895" width="669" height="826"/>
+	<SubTexture name="Smiles_wink0000" x="676" y="895" width="572" height="779"/>
+	<SubTexture name="Smiles_wink0001" x="676" y="895" width="572" height="779"/>
+</TextureAtlas>

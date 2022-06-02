@@ -1,0 +1,76 @@
+{
+	"position": [
+		40,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Smiles_talking",
+	"animations": [
+		{
+			"idle_offsets": [
+				-20,
+				25
+			],
+			"loop_offsets": [
+				-20,
+				25
+			],
+			"anim": "talk",
+			"idle_name": "Smiles_talk0001",
+			"loop_name": "Smiles_talk0001"
+		},
+		{
+			"idle_offsets": [
+				18,
+				24
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				18,
+				24
+			],
+			"idle_name": "Smiles_excite0001",
+			"loop_name": "Smiles_excite0001"
+		},
+		{
+			"loop_offsets": [
+				10,
+				27
+			],
+			"anim": "surprised",
+			"idle_offsets": [
+				10,
+				27
+			],
+			"loop_name": "Smiles_surprised0001",
+			"idle_name": "Smiles_surprised0001"
+		},
+		{
+			"loop_offsets": [
+				50,
+				30
+			],
+			"anim": "point",
+			"idle_offsets": [
+				50,
+				30
+			],
+			"loop_name": "Smiles_up0000",
+			"idle_name": "Smiles_up0000"
+		},
+		{
+			"loop_offsets": [
+				-30,
+				26
+			],
+			"anim": "wink",
+			"idle_offsets": [
+				-30,
+				26
+			],
+			"loop_name": "Smiles_wink0000",
+			"idle_name": "Smiles_wink0000"
+		}
+	]
+}

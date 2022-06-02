@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beezTalk.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confused0000" x="5" y="5" width="345" height="525"/>
+	<SubTexture name="confused0001" x="5" y="5" width="345" height="525"/>
+	<SubTexture name="excvited0000" x="352" y="5" width="345" height="525"/>
+	<SubTexture name="excvited0001" x="352" y="5" width="345" height="525"/>
+	<SubTexture name="talking0000" x="699" y="5" width="345" height="525"/>
+	<SubTexture name="talking0001" x="699" y="5" width="345" height="525"/>
+</TextureAtlas>

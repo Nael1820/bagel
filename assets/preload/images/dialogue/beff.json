@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-30,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				10
+			],
+			"idle_offsets": [
+				0,
+				10
+			],
+			"loop_name": "Beff_Talk0001",
+			"idle_name": "Beff_Talk0001"
+		},
+		{
+			"loop_offsets": [
+				35,
+				10
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				35,
+				10
+			],
+			"loop_name": "Beff_Excited 0001",
+			"idle_name": "Beff_Excited 0001"
+		},
+		{
+			"loop_name": "Beff_Embarrass0001",
+			"idle_offsets": [
+				20,
+				10
+			],
+			"idle_name": "Beff_Embarrass0001",
+			"anim": "embarrased",
+			"loop_offsets": [
+				20,
+				11
+			]
+		},
+		{
+			"loop_name": "Beff_peace0001",
+			"idle_offsets": [
+				40,
+				30
+			],
+			"idle_name": "Beff_peace0001",
+			"anim": "peace",
+			"loop_offsets": [
+				40,
+				30
+			]
+		},
+		{
+			"loop_name": "Beff_scared0001",
+			"idle_offsets": [
+				7,
+				15
+			],
+			"idle_name": "Beff_scared0001",
+			"anim": "scared",
+			"loop_offsets": [
+				7,
+				15
+			]
+		}
+	],
+	"image": "Beff_talking"
+}

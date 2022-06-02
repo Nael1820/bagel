@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Beff_talking.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Beff_Embarrass0000" x="5" y="5" width="363" height="566"/>
+	<SubTexture name="Beff_Embarrass0001" x="5" y="5" width="363" height="566"/>
+	<SubTexture name="Beff_Excited 0000" x="370" y="5" width="504" height="532"/>
+	<SubTexture name="Beff_Excited 0001" x="370" y="5" width="504" height="532"/>
+	<SubTexture name="Beff_Point0000" x="876" y="5" width="463" height="617"/>
+	<SubTexture name="Beff_Point0001" x="876" y="5" width="463" height="617"/>
+	<SubTexture name="Beff_Talk0000" x="1341" y="5" width="331" height="564"/>
+	<SubTexture name="Beff_Talk0001" x="1341" y="5" width="331" height="564"/>
+	<SubTexture name="Beff_peace0000" x="5" y="624" width="385" height="546"/>
+	<SubTexture name="Beff_peace0001" x="5" y="624" width="385" height="546"/>
+	<SubTexture name="Beff_scared0000" x="392" y="624" width="333" height="559"/>
+	<SubTexture name="Beff_scared0001" x="392" y="624" width="333" height="559"/>
+</TextureAtlas>

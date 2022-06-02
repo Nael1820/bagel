@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="giffTalk.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="5" y="5" width="351" height="519"/>
+	<SubTexture name="angry0001" x="5" y="5" width="351" height="519"/>
+	<SubTexture name="disgust0000" x="358" y="5" width="351" height="519"/>
+	<SubTexture name="disgust0001" x="358" y="5" width="351" height="519"/>
+	<SubTexture name="dissapoint0000" x="711" y="5" width="351" height="519"/>
+	<SubTexture name="dissapoint0001" x="711" y="5" width="351" height="519"/>
+	<SubTexture name="excited0000" x="1064" y="5" width="351" height="519"/>
+	<SubTexture name="excited0001" x="1064" y="5" width="351" height="519"/>
+	<SubTexture name="talking0000" x="1417" y="5" width="351" height="519"/>
+	<SubTexture name="talking0001" x="1417" y="5" width="351" height="519"/>
+</TextureAtlas>
