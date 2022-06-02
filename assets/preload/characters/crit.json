@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				550,
+				1104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "crit idle"
+		},
+		{
+			"offsets": [
+				548,
+				1107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "crit left"
+		},
+		{
+			"offsets": [
+				580,
+				1116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "crit up"
+		},
+		{
+			"offsets": [
+				560,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "crit right"
+		},
+		{
+			"offsets": [
+				560,
+				1090
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "crit down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crit",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "crit",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		126,
+		163
+	],
+	"camera_position": [
+		0,
+		-740
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

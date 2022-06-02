@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Beff_down"
+		},
+		{
+			"offsets": [
+				29,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey!",
+			"indices": [],
+			"name": "Beff_hey"
+		},
+		{
+			"offsets": [
+				1,
+				-92
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "idle",
+			"indices": [],
+			"name": "Beff_idle"
+		},
+		{
+			"offsets": [
+				39,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Beff_left"
+		},
+		{
+			"offsets": [
+				43,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Beff_LESS"
+		},
+		{
+			"offsets": [
+				69,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Beff_right"
+		},
+		{
+			"offsets": [
+				-4,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Beff_RIISS"
+		},
+		{
+			"offsets": [
+				-8,
+				-91
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Beff_scared"
+		},
+		{
+			"offsets": [
+				60,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Beff_up"
+		},
+		{
+			"offsets": [
+				17,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Beff_UISS"
+		},
+		{
+			"offsets": [
+				69,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Beff_DISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-95
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Beff_dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-95
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Beff_dieloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-95
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Beff_dieconfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beffbetter",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "beff",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		209,
+		116
+	],
+	"camera_position": [
+		120,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
